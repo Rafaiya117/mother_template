@@ -39,6 +39,8 @@ dependencies:
   app_state: ^0.9.6
   google_fonts: ^6.3.0
   flutter_screenutil: ^5.9.3
+  image_picker: ^1.2.0
+  percent_indicator: ^4.2.5
 
 dev_dependencies:
   flutter_test:
