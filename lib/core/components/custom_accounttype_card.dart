@@ -47,7 +47,6 @@ class CustomAccountOption extends StatelessWidget {
               child: Icon(icon, color: iconColor, size: 22),
             ),
             const SizedBox(width: 14),
-
             // Title + Subtitle
             Column(
               crossAxisAlignment: CrossAxisAlignment.start,
