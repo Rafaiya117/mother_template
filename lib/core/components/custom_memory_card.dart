@@ -151,6 +151,6 @@ class MemoryCard extends StatelessWidget {
 //   description: "Mom's 60th birthday party so much joy!",
 //   date: 'Jan 10, 2024',
 //   imageUrl: 'https://example.com/birthday.jpg',
-//   isVideo: true,         // ✅ Show video badge
-//   showBorder: true,      // ✅ Optional
+//   isVideo: true,         
+//   showBorder: true,      
 // ),
